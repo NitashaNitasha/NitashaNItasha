@@ -1,4 +1,4 @@
-## 👋 Hi there, I'm [Your Name]  
+## 👋 Hi there, I'm Nitasha
 
 I'm passionate about **Machine Learning, Neural Networks, and the Mathematics.**. My work revolves around building intelligent systems and optimizing performance using deep learning techniques.  
 
